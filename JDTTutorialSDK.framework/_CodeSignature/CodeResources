@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		MBlvCgG1c6wDVTExaxQAAgb2f4E=
-		</data>
 		<key>Headers/JDTTutorialSDK-Swift.h</key>
 		<data>
 		44Yeun0EcSkqZJjAtmn1C981bBw=
@@ -20,29 +16,25 @@
 		<data>
 		gtYctI42JQE7H2I9muMtYv+q9n4=
 		</data>
-		<key>Modules/.DS_Store</key>
-		<data>
-		it/Bz69pJXFKeRzM9OcRKb5eQiY=
-		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		G/quFpuEKF5+uWnpos3I2Hjsh54=
+		FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		9BLpZy0mXHa+U21F8pvV23zEFZU=
+		Ahl3E9XOcZ6X84j1x//28n+alE0=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		9BLpZy0mXHa+U21F8pvV23zEFZU=
+		Ahl3E9XOcZ6X84j1x//28n+alE0=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		G/quFpuEKF5+uWnpos3I2Hjsh54=
+		FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		G/quFpuEKF5+uWnpos3I2Hjsh54=
+		FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -50,7 +42,7 @@
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		IT9jOVco5CGra/hkpnw50iTxlNQ=
+		zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -58,7 +50,7 @@
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		wG1347pTlXjWQ17n8KLgdxw+3mw=
+		8aJ+e+UYNiLOwZjmt1qIEWQ2bvw=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -66,7 +58,7 @@
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		wG1347pTlXjWQ17n8KLgdxw+3mw=
+		8aJ+e+UYNiLOwZjmt1qIEWQ2bvw=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -74,7 +66,7 @@
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		IT9jOVco5CGra/hkpnw50iTxlNQ=
+		zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -82,7 +74,7 @@
 		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		IT9jOVco5CGra/hkpnw50iTxlNQ=
+		zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -90,11 +82,11 @@
 		</data>
 		<key>TutorialView.nib/objects-11.0+.nib</key>
 		<data>
-		rPMNNFkU5UFsHxwtJTPRq9vVsBs=
+		0oX/LTZkT0xFgol4bx/3tXdjLXk=
 		</data>
 		<key>TutorialView.nib/runtime.nib</key>
 		<data>
-		+LsAFGdfl5Pnrb7ilGjKSZp56Ec=
+		TJtVZ2T2uToZ6XHTsLEKHSRwBsw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -125,55 +117,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G/quFpuEKF5+uWnpos3I2Hjsh54=
+			FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5mSBb+ep5nJng6xNtz0oB9k9hbRmD2cxv5YXzR+ohCU=
+			80GhrDPGgo9IyfjFvglzd2eLNyMnuv9ATOvDThIMakk=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9BLpZy0mXHa+U21F8pvV23zEFZU=
+			Ahl3E9XOcZ6X84j1x//28n+alE0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BgDwXYgAXKuCiV3GYDbJsTbMNLJCDA2rIEU9UcEAbBU=
+			kjlSw1nqlM+ZqhVv4uVWl5McMRMioquqtK+aU19JJfI=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9BLpZy0mXHa+U21F8pvV23zEFZU=
+			Ahl3E9XOcZ6X84j1x//28n+alE0=
 			</data>
 			<key>hash2</key>
 			<data>
-			BgDwXYgAXKuCiV3GYDbJsTbMNLJCDA2rIEU9UcEAbBU=
+			kjlSw1nqlM+ZqhVv4uVWl5McMRMioquqtK+aU19JJfI=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G/quFpuEKF5+uWnpos3I2Hjsh54=
+			FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5mSBb+ep5nJng6xNtz0oB9k9hbRmD2cxv5YXzR+ohCU=
+			80GhrDPGgo9IyfjFvglzd2eLNyMnuv9ATOvDThIMakk=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G/quFpuEKF5+uWnpos3I2Hjsh54=
+			FpGmuYi8ANnCJ64K5bfPDm7wJtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5mSBb+ep5nJng6xNtz0oB9k9hbRmD2cxv5YXzR+ohCU=
+			80GhrDPGgo9IyfjFvglzd2eLNyMnuv9ATOvDThIMakk=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm.swiftdoc</key>
@@ -191,11 +183,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IT9jOVco5CGra/hkpnw50iTxlNQ=
+			zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrp6Dqm1lsFySqlvUngH+7l/YulYirlfhUk9n5sMue4=
+			S50tguqi6CgGQF8Zr/UAP9Z/EFSxShd83O5FaoKuU+Y=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -213,11 +205,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wG1347pTlXjWQ17n8KLgdxw+3mw=
+			8aJ+e+UYNiLOwZjmt1qIEWQ2bvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			J2Pyj7gfW+Hwe3fZwhV+fg3ixjBCbNz3kW9oK40iWjA=
+			TzdxWhCGEcTw+Dw2N+5ux9VIDnBGQaae/p+om5l9h/I=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/arm64.swiftdoc</key>
@@ -235,11 +227,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wG1347pTlXjWQ17n8KLgdxw+3mw=
+			8aJ+e+UYNiLOwZjmt1qIEWQ2bvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			J2Pyj7gfW+Hwe3fZwhV+fg3ixjBCbNz3kW9oK40iWjA=
+			TzdxWhCGEcTw+Dw2N+5ux9VIDnBGQaae/p+om5l9h/I=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -257,11 +249,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IT9jOVco5CGra/hkpnw50iTxlNQ=
+			zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrp6Dqm1lsFySqlvUngH+7l/YulYirlfhUk9n5sMue4=
+			S50tguqi6CgGQF8Zr/UAP9Z/EFSxShd83O5FaoKuU+Y=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/armv7.swiftdoc</key>
@@ -279,11 +271,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IT9jOVco5CGra/hkpnw50iTxlNQ=
+			zTiSFzF4yCak+Gj/lUSfmG3eRTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrp6Dqm1lsFySqlvUngH+7l/YulYirlfhUk9n5sMue4=
+			S50tguqi6CgGQF8Zr/UAP9Z/EFSxShd83O5FaoKuU+Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -301,22 +293,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rPMNNFkU5UFsHxwtJTPRq9vVsBs=
+			0oX/LTZkT0xFgol4bx/3tXdjLXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			EVSusDj3ZIxfaIAQjyr+gswSHq+qK9WwHR2ucKh9DWg=
+			iX1rekDaKhRATsWewI0XDE0DxHRYzlxeU3o31CyzpCU=
 			</data>
 		</dict>
 		<key>TutorialView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+LsAFGdfl5Pnrb7ilGjKSZp56Ec=
+			TJtVZ2T2uToZ6XHTsLEKHSRwBsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			G3NVjcI7ubyV0yl0WZ9LWOTPEC2kmvF80nP8GxXLKfA=
+			pC2ZbTOBLZoa75ahmydHKa11ltcx1YPeS9NqCM7BpVo=
 			</data>
 		</dict>
 	</dict>

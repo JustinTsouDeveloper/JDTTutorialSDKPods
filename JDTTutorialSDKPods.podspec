@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
           #s.resources = "JDTTutorialSDK/Resources/*.*"
 
           # s.resources              = "JDTBundle.bundle"
-          s.resource_bundles = {'JDTTutorialSDKPods' => ['JDTBundle.bundle/Media/*.xcassets']} 
+          s.resource_bundles = {'JDTTutorialSDKPods' => ['JDTBundle.bundle']} 
           s.vendored_frameworks    = 'JDTTutorialSDK.framework'
 
           s.pod_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 x86_64'}

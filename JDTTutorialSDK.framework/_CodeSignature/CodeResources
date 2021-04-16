@@ -16,18 +16,6 @@
 		<data>
 		gtYctI42JQE7H2I9muMtYv+q9n4=
 		</data>
-		<key>JDTBundle.bundle/Assets.car</key>
-		<data>
-		10V1R1HCpmzNtWyYjwi25IlTbuw=
-		</data>
-		<key>JDTBundle.bundle/Info.plist</key>
-		<data>
-		0o9E6dIAR7coo7q6o/PkUILX9As=
-		</data>
-		<key>JDTBundle.bundle/JDTBundle</key>
-		<data>
-		4NW6KLw0RrEkX3OUA5bki6dI5Kg=
-		</data>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
 		0G1zzQOarcm4cK1intqJ3jen+eY=
@@ -115,39 +103,6 @@
 			<key>hash2</key>
 			<data>
 			xZ0sbRnrAq7KisR7imd6KyPnSFZqCsKY8X+y5dS7tBI=
-			</data>
-		</dict>
-		<key>JDTBundle.bundle/Assets.car</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			10V1R1HCpmzNtWyYjwi25IlTbuw=
-			</data>
-			<key>hash2</key>
-			<data>
-			TzJzt3jV8e5j3sjHZjX2A+q/CtWjcrlsmkjvHIXZWjw=
-			</data>
-		</dict>
-		<key>JDTBundle.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0o9E6dIAR7coo7q6o/PkUILX9As=
-			</data>
-			<key>hash2</key>
-			<data>
-			Wl+Xsbibk29jlOZsZYbdzVoQqid5WHa4oz8fCliESUs=
-			</data>
-		</dict>
-		<key>JDTBundle.bundle/JDTBundle</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4NW6KLw0RrEkX3OUA5bki6dI5Kg=
-			</data>
-			<key>hash2</key>
-			<data>
-			pmOzMiLCRPd1cGUDc4in49wjgyBtsDWFdpBO2TG0n9s=
 			</data>
 		</dict>
 		<key>Modules/JDTTutorialSDK.swiftmodule/Project/arm.swiftsourceinfo</key>

@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name              = "JDTTutorialSDKPods"
           #2.
-          s.version           = "0.0.7"
+          s.version           = "0.0.8"
           #3.  
           s.summary           = "Sort description of 'JDTTutorialSDKPods' framework"
           #4.

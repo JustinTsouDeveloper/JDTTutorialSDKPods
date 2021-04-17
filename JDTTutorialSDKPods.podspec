@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name              = "JDTTutorialSDKPods"
           #2.
-          s.version           = "0.1.3"
+          s.version           = "0.1.4"
           #3.  
           s.summary           = "Sort description of 'JDTTutorialSDKPods' framework"
           #4.
@@ -32,6 +32,6 @@ Pod::Spec.new do |s|
           s.resource_bundles = {'JDTTutorialSDKPods' => ['JDTBundle.bundle']} 
           s.vendored_frameworks    = 'JDTTutorialSDK.framework'
 
-          s.pod_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 x86_64'}
-          s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 x86_64'}
+          s.pod_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
+          s.user_target_xcconfig   = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
     end
